@@ -13,7 +13,7 @@ header{
          align-items: center;
 
          &__logo{
-            color:#094b65;
+            color:#0085c6;
             font-weight:700;
             font-size:2em;
             text-decoration:none;
@@ -31,12 +31,12 @@ header{
                     a{
                         text-decoration:none;
                         padding:6px 15px;
-                        color:#094b65;
+                        color:#0085c6;
                         cursor: pointer;
                         border-radius: 20px;
 
                         &:hover,&.active{
-                            background:#094b65;
+                            background:#0085c6;
                             color:#fff;
                         }
                         i{
